@@ -1,2 +1,3 @@
-# leabstrait.github.io
-My website
+# Labin Ojha
+
+Find my CV [here](https://cv.labinojha.com.np)
