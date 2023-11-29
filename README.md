@@ -1,5 +1,1 @@
-# Labin Ojha
-
-Find my CV [here](https://cv.labinojha.com.np)
-
-My [Notes](https://notes.labinojha.com.np)
+[CV](https://cv.labinojha.com.np) | [Notes](https://notes.labinojha.com.np) | [Tools](https://tools.labinojha.com.np)
