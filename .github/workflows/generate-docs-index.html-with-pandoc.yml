@@ -33,7 +33,8 @@ jobs:
 
             - name: Run script to generate docs/index.html file from README.md
               run: |
-                  pandoc README.md -s -o docs/index.html
+                  mkdir -p docs
+                  pandoc README.md --metadata title="Labin Ojha" -s -o docs/index.html
 
             - name: Track the docs folder
               run: |
