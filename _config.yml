@@ -1,10 +1,13 @@
 # Configuration file for Jekyll
 
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 # Site settings
 title: Labin Ojha
 description: My landing page
 url: https://labinojha.com.np # Base URL for your GitHub Pages site
 
 # GitHub Pages specific settings
-theme: jekyll-theme-cayman # Choose a Jekyll theme
+remote_theme: pages-themes/slate@v0.2.0
 markdown: kramdown # Markdown parser to use
