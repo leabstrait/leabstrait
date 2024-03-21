@@ -1,0 +1,10 @@
+# Configuration file for Jekyll
+
+# Site settings
+title: Labin Ojha
+description: My landing page
+url: https://labinojha.com.np # Base URL for your GitHub Pages site
+
+# GitHub Pages specific settings
+theme: jekyll-theme-cayman # Choose a Jekyll theme
+markdown: kramdown # Markdown parser to use
