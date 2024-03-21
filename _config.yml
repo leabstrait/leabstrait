@@ -4,6 +4,7 @@
 title: Labin Ojha
 description: My landing page
 url: https://labinojha.com.np # Base URL for your GitHub Pages site
+header_pages:
 
 # GitHub Pages specific settings
 theme: minima
