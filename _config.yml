@@ -1,4 +1,6 @@
 # Configuration file for Jekyll
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Site settings
 title: Labin Ojha
@@ -7,5 +9,5 @@ url: https://labinojha.com.np # Base URL for your GitHub Pages site
 header_pages:
 
 # GitHub Pages specific settings
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
 markdown: kramdown # Markdown parser to use
