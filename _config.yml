@@ -6,5 +6,5 @@ url: https://labinojha.com.np # Base URL for your GitHub Pages site
 header_pages: [""]
 
 # GitHub Pages specific settings
-theme: jekyll-theme-minima
+theme: minima
 markdown: kramdown # Markdown parser to use
