@@ -8,5 +8,5 @@ description: My landing page
 url: https://labinojha.com.np # Base URL for your GitHub Pages site
 
 # GitHub Pages specific settings
-theme: pages-themes/primer@v0.2.0
+remote_theme: pages-themes/primer@v0.2.0
 markdown: kramdown # Markdown parser to use
