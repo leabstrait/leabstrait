@@ -1,3 +1,3 @@
-<div style="text-align: center;"> λ_ </div>
+<p align="center"> λ_ </p>
 <br/>
-<div style="text-align: center;"> <a href="https://cv.labinojha.com.np">CV</a> . <a href="https://notes.labinojha.com.np">Notes</a> </div>
+<p align="center"> <a href="https://cv.labinojha.com.np">CV</a> . <a href="https://notes.labinojha.com.np">Notes</a> </p>
